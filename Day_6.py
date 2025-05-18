@@ -1,6 +1,6 @@
 a = complex(8, 2)
 b = True
-c = "Harry"
+c = "Manish"
 d = None
 print(a)
 print(b)
